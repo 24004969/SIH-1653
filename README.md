@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:06-03-2025
-## Register Number:24900843
-## Name: SUBASH B
+# Date:08-03-2025
+## Register Number:212224110003
+## Name: Ajay.J
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
